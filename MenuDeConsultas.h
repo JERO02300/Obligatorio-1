@@ -1,0 +1,7 @@
+#ifndef MENUDECONSULTAS_H_INCLUDED
+#define MENUDECONSULTAS_H_INCLUDED
+#include "vehiculos.h"
+
+
+
+#endif // MENUDECONSULTAS_H_INCLUDED
