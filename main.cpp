@@ -14,9 +14,9 @@ using namespace std;
 int main(){
 
  int opcion;
+vehiculo v;
 
  printf("Bienvenido, Ingrese una opcion\n");
-
  printf("1.Ingreso del vehiculo\n");
   printf("2.Salida el vehiculo\n");
  printf ("3.Mostrar menu de consulta y listado\n");
@@ -25,12 +25,7 @@ int main(){
 
  switch(opcion){
   case 1:
-      printf("Ingrese su matricula: ");
-      scan (sting &str);
-      printf("Ingrese la hora de llegada del vehiculo:");
-
-
-
+cargarVehiculo(v);
 
     break;
      case 2:

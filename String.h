@@ -7,5 +7,6 @@ typedef char string [MAX];
 
 void scan (string &str);
 void print (string str);
+boolean streq(string str, string str1);
 
 #endif // STRING_H_INCLUDED

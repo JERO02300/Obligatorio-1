@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1663796703 source:c:\users\asus\desktop\prog 2\obligatorio1\obligatorio1 (estacionamiento)\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1663793835 source:c:\users\asus\desktop\prog 2\obligatorio1\obligatorio1 (estacionamiento)\string.cpp
+	<stdio.h>
+	"string.h"
+
+1663877871 c:\users\asus\desktop\prog 2\obligatorio1\obligatorio1 (estacionamiento)\string.h
+	"boolean.h"
+
+1663792467 source:c:\users\asus\desktop\prog 2\obligatorio1\obligatorio1 (estacionamiento)\tipovehiculos.cpp
+
+1663793848 source:c:\users\asus\desktop\prog 2\obligatorio1\obligatorio1 (estacionamiento)\menudeconsultas.cpp
+	<stdio.h>
+
+1663808355 c:\users\asus\desktop\prog 2\obligatorio1\obligatorio1 (estacionamiento)\boolean.h
+	<stdio.h>
+
+1663796703 source:c:\users\asus\desktop\prog 2\obligatorio1\obligatorio1 (estacionamiento)\departamentos.cpp
+	<stdio.h>
+	"boolean.h"
+
+1663977235 source:c:\users\asus\desktop\prog 2\obligatorio1\obligatorio1 (estacionamiento)\autos.cpp
+	<stdio.h>
+	"autos.h"
+
+1663977235 c:\users\asus\desktop\prog 2\obligatorio1\obligatorio1 (estacionamiento)\autos.h
+	"string.h"
+

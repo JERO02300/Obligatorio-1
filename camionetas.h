@@ -7,9 +7,9 @@ string modelo;
 int capacidadcarga;
 } camioneta;  //CAMIONETA
 
-void cargar(camioneta &camio);
+void cargarCam(camioneta &camio);
 
-void cargar(camioneta camio);
+void mostrarCam(camioneta camio);
 
 
 #endif // CAMIONETAS_H_INCLUDED

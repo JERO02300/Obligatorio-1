@@ -3,21 +3,23 @@
 #include "string.h"
 #include "horas.h"
 #include "tipoVehiculos.h"
-typedef struct
+#include "Departamentos.h"
+#include "autos.h"
+#include "camionetas.h"
 
-{ string matricula;
-departamento dep;
-long int cedula;
-horas hrsIngreso;
+typedef struct {
+    string matricula;
+    departamento dep;
+    long int cedula;
+    horas hrsIngreso;
+    tipovehiculos discriminante;
+    union {
+        camioneta  datosc;
+        autos datosa;
+    } datos;
+} vehiculo;
 
- tipovehículos discriminante;
+void cargarVehiculo(vehiculo &v);
 
-union
-{
-    camioneta  datosc;
-    autos datosa;
-} datos;
-} vehículo;
-
-
+void mostrarVehiculo(vehiculo v);
 #endif // VEHICULOS_H_INCLUDED

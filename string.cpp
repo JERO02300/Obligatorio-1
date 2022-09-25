@@ -23,3 +23,20 @@ printf("%c", str[i]);
 i++;
 }
 }
+
+boolean streq(string str, string str1) {
+  boolean iguales=TRUE;
+  int i=0;
+    do {
+        if(str[i]!=str1[i]) {
+          iguales=FALSE;
+        }
+      i++;
+    } while(iguales==TRUE && str[i]!='\0' && str1[i]!='\0');
+
+    if(iguales)
+      if(str[i] != str1[i])
+        iguales=FALSE;
+
+  return iguales;
+}
