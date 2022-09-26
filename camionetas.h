@@ -1,5 +1,6 @@
 #ifndef CAMIONETAS_H_INCLUDED
 #define CAMIONETAS_H_INCLUDED
+#include <stdin.h>
 #include "tipoVehiculos.h"
 typedef struct
  {

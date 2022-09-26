@@ -21,7 +21,7 @@ void mostrarTipo(tipovehiculos tv){
         case camioneta:
             printf("El vehiculo es una camioneta");
             break;
-        default:printf("No existe el vehiculo");
+        default:printf("Vehiculo no valido");
             break;
     }
 }

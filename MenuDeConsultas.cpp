@@ -16,9 +16,9 @@ vehiculo v;
 
 void menuOP3(){
 printf("Menu 3: \n");
-printf("1. Total recaudado hasta el momento por concepto de tickets");
-printf("2. Cantidad de autos y cantidad de camionetas registrados actualmente");
-printf("3. Cantidad de vehiculos matriculados en un departamento determinado");
+printf("1. Total recaudado hasta el momento por concepto de tickets");      //terminado
+printf("2. Cantidad de autos y cantidad de camionetas registrados actualmente");        //terminado
+printf("3. Cantidad de vehiculos matriculados en un departamento determinado");     //terminado
 printf("4. Listado de vehiculos registrados actualmente");
 printf("5. Listado detallado de un vehiculo");
 printf("6. Listado de vehiculos que ingresaron en una hora determinada");

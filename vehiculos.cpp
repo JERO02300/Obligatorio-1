@@ -28,3 +28,5 @@ if(v.discriminante==automovil){
 else
     mostrarCam(v.datos.datosc);
 }
+
+

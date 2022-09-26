@@ -36,3 +36,17 @@
 1663808355 c:\users\asus\desktop\prog 2\obligatorio1git\obligatorio-1\boolean.h
 	<stdio.h>
 
+1664068426 source:c:\users\asus\desktop\prog 2\obligatorio1git\obligatorio-1\autos.cpp
+	<stdio.h>
+	"autos.h"
+
+1663977235 c:\users\asus\desktop\prog 2\obligatorio1git\obligatorio-1\autos.h
+	"string.h"
+
+1664058180 c:\users\asus\desktop\prog 2\obligatorio1git\obligatorio-1\string.h
+	"boolean.h"
+
+1664058180 source:c:\users\asus\desktop\prog 2\obligatorio1git\obligatorio-1\string.cpp
+	<stdio.h>
+	"string.h"
+
