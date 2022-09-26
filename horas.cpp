@@ -10,7 +10,7 @@ boolean horaValida(hora hs) {
     return valida;
 }
 
-horas cargarH(horas horario){
+horas cargarH (horas horario){
 printf("Ingrese el horario de ingreso del vehiculo en sistema de 24 horas:\n");
       scanf("%d %d", &horario.hrs, &horario.minutos);
 

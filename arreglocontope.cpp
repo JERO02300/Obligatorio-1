@@ -38,3 +38,24 @@ void cantidadCamionetas(Arreglocontope arre3){
     }
     return cantidadCAMIO;
 }
+
+
+void MostrarListado(Arreglocontope arreListado){
+    int i = 0;
+    for (i;arreListado.tope;i++){
+        mostrarVehiculo(arreListado.tope);
+
+    }
+}
+
+void mostrarHVehiculo (Arreglocontope arreHorario){
+    int i = 0;
+   while encontre = FALSE
+   for(i;i<arreHorario;i++){
+
+
+   }
+
+
+}
+}

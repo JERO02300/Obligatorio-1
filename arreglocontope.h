@@ -15,7 +15,8 @@ void cantidadCamionetas(Arreglocontope arre3);
 void cargar (Arreglocontope &arretope);
 void quitarVehiculo(Arreglocontope &arreCT, string matr);
 
-void mostrar (Arreglocontope arretope);
+void MostrarListado (Arreglocontope arretope);
+void mostrarHVehiculo (Arreglocontope arretope);
 
 
 #endif // ARREGLOCONTOPE_H_INCLUDED
